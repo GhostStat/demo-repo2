@@ -1,0 +1,1 @@
+Hi, I'm Ghost! This is me trying to create a repository on github using my local machine. 
